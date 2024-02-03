@@ -1,4 +1,4 @@
-# Ontario_Dairy-Market-Analysis-using-Python-and-Tableau
+# Ontario_Dairy-Market-Analysis: (_Tools used using Python, Excel, Tableau_)
 
  ## Overview:
 This project offers a comprehensive analysis of the dairy market, focusing on understanding and interpreting sales trends, seasonal patterns, comparisons between different types of dairy products, market share distribution, and consumer consumption habits. Through detailed data collection and analysis, the project aims to provide valuable insights for stakeholders in the dairy industry, including producers, retailers, and policy makers, to make informed decisions.
