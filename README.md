@@ -14,7 +14,7 @@ This project offers a comprehensive analysis of the dairy market, focusing on un
 ## Methodology:
 The project will utilize a mix of quantitative and qualitative research methods, including data mining, statistical analysis, consumer surveys, and market observation. Data sources will include sales records, market reports, consumer feedback, and industry publications.
 
-**Expected Outcomes**: 
+## **Expected Outcomes**: 
 - Detailed reports and dashboards highlighting key findings and trends in the dairy market.
 - Strategic recommendations for dairy product producers and retailers to optimize their product offerings and marketing strategies.
 - Identification of potential growth areas and consumer segments for targeted development.
