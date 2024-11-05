@@ -1,4 +1,4 @@
-# Analyzing Dairy Industry: Trends, Types and Consumption Patterns in Ontario: 
+# Analyzing Dairy Industry: Trends, Types and Consumption Patterns in Ontario 
 ## (_Tools used - Python, Excel, Tableau_)
 
  ## Overview:
